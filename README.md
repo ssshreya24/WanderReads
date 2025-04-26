@@ -36,7 +36,7 @@ Users can discover *History, Culture, Monuments, and Itineraries* of countries l
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home View](assets/HomeView.png)
+![Home View]([https://github.com/ssshreya24/WanderReads/tree/main/assests#:~:text=33%20minutes%20ago-,HomeView.png,-Added%20Screenshots])
 
 ---
 
