@@ -40,19 +40,19 @@ Users can discover *History, Culture, Monuments, and Itineraries* of countries l
 ## Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](assets/HomeView.png)
+![Home Screen]("D:\Downloads2\HomeView.png")
 
 ### 🔍 Search Feature
-![Search Bar](assets/SearchBar.png)
+![Search Bar]("D:\Downloads2\SearchBar.png")
 
 ### 📚 Books Categories
-![Books Categories](assets/BooksCategories.png)
+![Books Categories]("D:\Downloads2\BooksCategories.png")
 
 ### 🔄 Flip Card Book View
-![Flip View](assets/FlipView.png)
+![Flip View]("D:\Downloads2\Flipview.png")
 
 ### 📖 Book Recommendation Display
-![Book Recommended](assets/BookRecommended.png)
+![Book Recommended]("D:\Downloads2\BookRecomended.png")
 
 ---
 
