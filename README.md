@@ -29,7 +29,7 @@ Users can discover *History, Culture, Monuments, and Itineraries* of countries l
 
 - **SwiftUI**
 - **Xcode**
-- **Git & GitHub for Version Control**
+
 
 ---
 
@@ -96,7 +96,7 @@ You can find the demo video inside the repository under `DemoVideo/` folder.
 ## 📫 Contact
 
 If you have any questions:  
-**Email**: shreyasingh@example.com (replace this with your real email if needed)
+**Email**: shreyasingh131268@gmail.com
 
 ---
 
