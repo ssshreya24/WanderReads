@@ -40,19 +40,19 @@ Users can discover *History, Culture, Monuments, and Itineraries* of countries l
 ## Screenshots
 
 ### 🏠 Home Screen
-![Home Screen]("D:\Downloads2\HomeView.png")
+![Home Screen](https://raw.githubusercontent.com/ssshreya24/WanderReads/main/assests/HomeView.png)
 
 ### 🔍 Search Feature
-![Search Bar]("D:\Downloads2\SearchBar.png")
+![Search Feature](https://raw.githubusercontent.com/ssshreya24/WanderReads/main/assests/SearchBar.png)
 
 ### 📚 Books Categories
-![Books Categories]("D:\Downloads2\BooksCategories.png")
+![Books Categories](https://raw.githubusercontent.com/ssshreya24/WanderReads/main/assests/BooksCategories.png)
 
 ### 🔄 Flip Card Book View
-![Flip View]("D:\Downloads2\Flipview.png")
+![Flip Card Book View](https://raw.githubusercontent.com/ssshreya24/WanderReads/main/assests/Flipview.png)
 
 ### 📖 Book Recommendation Display
-![Book Recommended]("D:\Downloads2\BookRecomended.png")
+![Book Recommendation Display](https://raw.githubusercontent.com/ssshreya24/WanderReads/main/assests/BookRecomended.png)
 
 ---
 
