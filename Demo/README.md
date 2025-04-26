@@ -1,3 +1,3 @@
 ## 🎥 Demo Video
 
-[Click here to watch the Demo Video 🚀](https://drive.google.com/drive/folders/13bs7c9zfVPNj0gjh3U5unW1zuveyjZPj?usp=drive_link)
+[Click here to watch the Demo Video 🚀](https://drive.google.com/file/d/1Lj6rqQJ4ocl2qMqcgKGtVUK2-MQ17vqn/view?usp=drive_link)
