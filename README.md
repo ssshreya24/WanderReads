@@ -79,7 +79,7 @@ Users can view and use the app but cannot fork, modify, or redistribute.
 ## 🎥 Demo Video
 
 You can find the demo video inside the repository under `Demo/` folder.  
-[![Watch Demo](https://drive.google.com/file/d/1Lj6rqQJ4ocl2qMqcgKGtVUK2-MQ17vqn/view?usp=drive_link)
+[![Watch Demo](https://drive.google.com/file/d/1Lj6rqQJ4ocl2qMqcgKGtVUK2-MQ17vqn/view?usp=drive_link).
 (If not uploaded due to size limits, please reach out!)
 
 ---
