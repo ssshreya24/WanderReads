@@ -35,28 +35,24 @@ Users can discover *History, Culture, Monuments, and Itineraries* of countries l
 
 ## 📸 Screenshots
 
+# 📚 WanderReads
+
+## Screenshots
+
 ### 🏠 Home Screen
-![Home View]([https://github.com/ssshreya24/WanderReads/tree/main/assests#:~:text=33%20minutes%20ago-,HomeView.png,-Added%20Screenshots])
+![Home Screen](assets/HomeView.png)
 
----
-
-### 🔍 Search Bar Feature
+### 🔍 Search Feature
 ![Search Bar](assets/SearchBar.png)
-
----
 
 ### 📚 Books Categories
 ![Books Categories](assets/BooksCategories.png)
 
----
-
 ### 🔄 Flip Card Book View
-![Flip View](assets/Flip%20view.png)
-
----
+![Flip View](assets/FlipView.png)
 
 ### 📖 Book Recommendation Display
-![Book Recommended](assets/BookRecomended.png)
+![Book Recommended](assets/BookRecommended.png)
 
 ---
 
